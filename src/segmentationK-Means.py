@@ -48,4 +48,4 @@ def segment_kmeans(image_path, k=3):
     plt.show()
 
 # Пример использования
-segment_kmeans("./img/images.png", k=4)
+segment_kmeans("../img/image1.jpg", k=4)
